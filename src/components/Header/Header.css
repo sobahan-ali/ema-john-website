@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #1C2B35;
+    color: #FFFFFF;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar img{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 140px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-left: 32px;
+}
+.nav-info{
+    padding-right: 140px;
+}
